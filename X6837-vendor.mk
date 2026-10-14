@@ -1224,7 +1224,7 @@ PRODUCT_PACKAGES += \
     libfgauge_gm30 \
     libfile_op \
     libforkexecwrap \
-    libformatter \
+    libformatter_mtk \
     libfp_ext_svc2 \
     libged \
     libgf_ca \
@@ -1537,7 +1537,7 @@ PRODUCT_PACKAGES += \
     libitdfacebeauty \
     liblpcnr \
     libmagicsky_64 \
-    libmnl \
+    libmnl_mtk \
     libmorpho_HDSR \
     libmorpho_video_stabilizer \
     libmpbase \
@@ -1649,8 +1649,6 @@ PRODUCT_PACKAGES += \
     vendor.mediatek.hardware.apuware.hmp@1.0 \
     vendor.mediatek.hardware.apuware.utils@2.0 \
     vendor.mediatek.hardware.audio@7.1 \
-    vendor.mediatek.hardware.bluetooth.audio@2.1 \
-    vendor.mediatek.hardware.bluetooth.audio@2.2 \
     vendor.mediatek.hardware.camera.atms@1.0 \
     vendor.mediatek.hardware.camera.bgservice@1.0 \
     vendor.mediatek.hardware.camera.bgservice@1.1 \
@@ -1795,7 +1793,7 @@ PRODUCT_PACKAGES += \
     vendor_lib64_libaalservice_so \
     vendor_lib64_libaiselector_so \
     vendor_lib64_libdpframework_so \
-    vendor_lib64_libmnl_so \
+    vendor_lib64_libmnl_mtk_so \
     vendor_lib64_libmtk_drvb_so \
     vendor_lib64_libneuralnetworks_sl_driver_mtk_prebuilt_so \
     vendor_lib64_libneuron_adapter_mgvi_so \
